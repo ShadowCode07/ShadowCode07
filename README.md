@@ -26,7 +26,7 @@
 <code><img alt="uni" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" ></code>
 <code><img alt="vs" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/250?cb=20191019024151" ></code>
 <code><img alt="vscode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" ></code>
-
+<code><img alt="github" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" ></code>
 
 ### Projects and Dev Stuffs:
 

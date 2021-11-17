@@ -1,4 +1,4 @@
-# Hello there, the name's [Shadow](https://github.com/ShadowCode07)(∩_∩)
+# Hey mate, the name's [Shadow](https://github.com/ShadowCode07)(∩_∩)
 
 <hr>
 

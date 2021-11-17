@@ -11,6 +11,7 @@
 
 - 😆 &nbsp; I'm currently learning HTML5&CSS3, C++, C#, Python
 - 🐱‍💻 &nbsp; I am going to upload my work here in [Github](https://github.com/ShadowCode07)
+- 😛 &nbsp; If you want access to my demo project email me and I may add you
 - 🐬 &nbsp; I love collecting coins, gaming, doing random stuff overall.
 - 📫 &nbsp; You can reach me via email: plamen24yavor@gmail.com
 

@@ -35,7 +35,7 @@
   <summary><b>⚡ Github Stats</b></summary>
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=ShadowCode07&show_icons=true&theme=radical&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowCode07&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowCode07&theme=radical)](https://github.com/ShadowCode07)
 </details>
 
 <details>

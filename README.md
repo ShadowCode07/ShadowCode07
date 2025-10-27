@@ -1,4 +1,6 @@
 # Hey there, I'm ShadowCode
+## Or you can call me Plamen
+
 💻 **.NET Developer | API Builder | Softaware and Game Dev ethusiast**
 
 🎯 Passionate about API and game development

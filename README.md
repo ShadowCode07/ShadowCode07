@@ -6,17 +6,21 @@
 🎯 Passionate about API and game development
 
 🚀 Always learning, experimenting, and pushing myself to the limit
-<hr>
 
 
-<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/c3/04/87/c30487ca4ddfea1babb9382556097e63.gif" />
+---
 
 ## About me :
 
+<img align="right" height="165" width="375" alt="" src="https://i.pinimg.com/originals/c3/04/87/c30487ca4ddfea1babb9382556097e63.gif" />
+
 -🧩 I specialize in **C#**, **APS.NET Core**, building RESTful APIs
+
 -👍 I have an understanding **C++**, **Unity**, **MSSQL**
+
 -⚙️ Currently working on a **Sports application, inspired by Pokémon GO**
-- 🧑‍💻I love creating and playing games from time to time
+
+-🧑‍💻I love creating and playing games from time to time
 
 ---
 
@@ -45,7 +49,7 @@ React
 
 ## 📫 Get in touch
 
-📧 **Email:** [your@email.com]  
+📧 **Email:** [plamen24yavor@gmail.com]  
 
 ---
 

@@ -47,11 +47,5 @@ React
 
 ---
 
-## 📫 Get in touch
-
-📧 **Email:** [plamen24yavor@gmail.com]  
-
----
-
 ### 💬 Let’s Collaborate!
 I’m open to discussions on **.NET APIs**, **microservices**, or **game-related integrations** — feel free to connect or open an issue!

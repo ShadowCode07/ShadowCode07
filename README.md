@@ -29,8 +29,8 @@
 **Languages:**
 C# • C++
 
-**Framewroks & Tools:**
-ASP.NET Core • Entity Framewrol • Swagger & Postman • Git
+**Frameworks & Tools:**
+ASP.NET Core • Entity Framework • Swagger & Postman • Git
 
 **Databases:**
 SQL Server
